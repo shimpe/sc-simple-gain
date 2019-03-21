@@ -1,0 +1,1 @@
+python /home/shimpe/development/supercollider/supercollider/tools/cmake_gen/generate_server_plugin_cmake.py -P "Simple Gain" -p "plugins/SimpleGain" -a "Manifest Heap"
